@@ -1,2 +1,2 @@
-# Accessing_data_API
-Extracting data through its API
+# Accessing_Data_Through_API
+
